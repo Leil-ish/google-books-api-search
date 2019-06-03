@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    background-color: white;
+}
+
+li {
+    list-style:none;
+    text-align:left;
+}

@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+label {
+    margin:5px 10px;
+    background-color:lightgray;
+}
+
+div {
+    background-color:lightgray;
+}
+
+select {
+    display:inline;
+    background-color:white;
+}

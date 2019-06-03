@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+input {
+    border:1px solid black;
+    margin:5px 10px;
+    width:200px;
+    text-align:center;
+}
+
+button {
+    border:1px solid black;
+    margin:5px 10px;
+    border-radius:5%;
+}
+
+label {
+    margin:5px 10px;
+    background-color:gray;
+}
+
+form {
+    background-color:gray;
+}
